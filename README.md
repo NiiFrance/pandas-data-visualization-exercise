@@ -34,9 +34,6 @@ This repository contains a Jupyter notebook assignment focused on practicing dat
 - Modify or experiment with the code to deepen your understanding of data visualization techniques.
 - Save your completed notebook before submitting or sharing.
 
-## Submission
-If this is a class assignment, follow your instructor's submission guidelines (e.g., upload the completed `.ipynb` file to your LMS or email it).
-
 ## License
 This project is for educational purposes. You are free to use, modify, and share it.
 
